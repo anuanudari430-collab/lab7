@@ -19,3 +19,6 @@ git add болон git commit ашиглах
 GitHub дээрх шинэ өөрчлөлтийг git pull ашиглан татах
 ---
 88888
+## Branch дээр хийсэн өөрчлөлт 
+
+энэ хэсгийг feature-readme branch дээр нэмсэн.
